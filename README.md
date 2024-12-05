@@ -39,7 +39,7 @@ We need to develop a CI/CD pipeline to automate the software development, testin
 > **Important Note:** All commands below should be run from the root directory.
 
 - To achieve this task first of all, download the provided Java Source Code into on my Local PC and then created a GitHub Repository and uploaded all the project files to the repo.
-![image](https://github.com/user-attachments/assets/491b1b55-34ce-4ad2-a48a-39ef6db8f44d)
+
 
 
 - Launch an EC2 Linux instance (type: t2.micro) named retail-app-master. set the security group rule to allow all traffic from anywhere and create the instance.
